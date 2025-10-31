@@ -32,7 +32,7 @@ It provides clear insights into total business, customer behavior, and sales tre
 ---
 
 # 🔗 Project Links
-- 📂 GitHub Repository: https://github.com/Nikhita-Naik/Sales_Dashboard
+- 📂 GitHub Repository: [https://github.com/Nikhita-Naik/Sales_Dashboard](https://github.com/Nikhita-Naik/Sales_Dashboard_.git)
  
 - 📸 LinkedIn Post: https://www.linkedin.com/posts/nikhita-naik-12b05a332_exceldashboard-dataanalysis-excelproject-activity-7386644621285806081-1oPu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOoOTMBBoGw8Rlmbi3y4F_T-_USZDw58w0 
 
